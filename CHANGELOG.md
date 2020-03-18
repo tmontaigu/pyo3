@@ -30,6 +30,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 * `PyTypeInfo::BaseLayout` and `PyClass::BaseNativeType`. [#770](https://github.com/PyO3/pyo3/pull/770)
 * `PyDowncastImpl`. [#770](https://github.com/PyO3/pyo3/pull/770)
 * Implement `FromPyObject` and `IntoPy<PyObject>` traits for arrays (up to 32). [#778](https://github.com/PyO3/pyo3/pull/778)
+* `migration.md` and `types.md` in the guide. [#795](https://github.com/PyO3/pyo3/pull/795), #[802](https://github.com/PyO3/pyo3/pull/802)
 
 ### Fixed
 
